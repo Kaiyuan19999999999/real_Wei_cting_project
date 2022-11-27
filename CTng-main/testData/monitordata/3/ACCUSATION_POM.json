@@ -1,0 +1,44 @@
+[
+  {
+   "application": "CTng",
+   "period": "18",
+   "type": "http://ctng.uconn.edu/303",
+   "signer": "",
+   "signers": {
+    "0": "localhost:8080",
+    "1": "localhost:8082"
+   },
+   "signature": [
+    "{\"sign\":\"b61446e88158f5bfe780c3eb8c9c293e219fb8b64ade2c6473bcf4e74ab1ad65c4278fa9374d15345e123dd6503a0a02\", \"ids\":[\"localhost:8080\",\"localhost:8082\"]}",
+    ""
+   ],
+   "timestamp": "2022-11-27T21:18:00Z",
+   "crypto_scheme": "BLS",
+   "payload": [
+    "localhost:9002",
+    "",
+    ""
+   ]
+  },
+  {
+   "application": "CTng",
+   "period": "18",
+   "type": "http://ctng.uconn.edu/303",
+   "signer": "",
+   "signers": {
+    "0": "localhost:8080",
+    "1": "localhost:8082"
+   },
+   "signature": [
+    "{\"sign\":\"04315edcdd114fd1cf29128cc83de34b7274ac022d7c1b7a9754f43bd24f5cf03995a92b9f5b17883f6bccec2b85e996\", \"ids\":[\"localhost:8080\",\"localhost:8082\"]}",
+    ""
+   ],
+   "timestamp": "2022-11-27T21:18:00Z",
+   "crypto_scheme": "BLS",
+   "payload": [
+    "localhost:9102",
+    "",
+    ""
+   ]
+  }
+ ]

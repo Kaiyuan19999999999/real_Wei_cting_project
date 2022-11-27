@@ -1,0 +1,9 @@
+{
+  "All_CA_URLs": ["localhost:9100", "localhost:9101", "localhost:9102"],
+  "All_Logger_URLs": ["localhost:9000", "localhost:9001", "localhost:9002"],
+  "Gossip_wait_time": 1,
+  "MMD": 60,
+  "MRD": 60,
+  "Http_vers": ["2","1","3"],
+  "Length": 64
+}

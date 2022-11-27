@@ -1,0 +1,6 @@
+{
+  "Crypto_config_path": "testData/gossiperNetworkTest/3/gossiperCrypto.json",
+  "Connected_Gossipers": ["localhost:8083", "localhost:8080"],
+	"Owner_URL": "localhost:8182",
+	"Port": "8082"
+}

@@ -1,0 +1,7 @@
+{
+  "Crypto_config_path": "testData/monitorNetworkTest/3/monitorCrypto.json",
+	"CA_URLs": ["localhost:9100", "localhost:9102"],
+	"Logger_URLs": ["localhost:9000", "localhost:9002"], 
+	"Gossiper_URL": "localhost:8082",
+	"Port": "8182"
+}

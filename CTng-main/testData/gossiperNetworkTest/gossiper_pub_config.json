@@ -1,0 +1,15 @@
+{
+    "Communication_delay": 50,
+	"Gossip_wait_time": 1,
+	"Max_push_size": 3000,
+    "Period_interval": 10,
+	"Expiration_time": 86400,
+	"Port": "22",
+	"MMD": 60,
+    "MRD": 60,
+	"Gossiper_URLs": ["localhost:8080","localhost:8081", "localhost:8082", "localhost:8083"],
+	"Signer_URLs": ["localhost:8080","localhost:8081", "localhost:8082","localhost:8083",
+				  "localhost:8180","localhost:8181", "localhost:8182","localhost:8183",
+                  "localhost:9000","localhost:9001","localhost:9002","localhost:9003",
+                  "localhost:9100","localhost:9101","localhost:9102","localhost:9103"]
+}
